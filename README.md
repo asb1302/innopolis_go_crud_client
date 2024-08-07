@@ -1,0 +1,1 @@
+# innopolis_go_crud_client
